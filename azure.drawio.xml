@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1313" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="634" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="gLIjNB_qBVc5rEbI6ZJg-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647714-excel-1207.svg" value="" vertex="1">
           <mxGeometry height="30" width="30" x="500" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gLIjNB_qBVc5rEbI6ZJg-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Logos_Microsoft_Office_365-2232/Microsoft_Office-07-1169.svg" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="590" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
